@@ -1,0 +1,22 @@
+{
+  "servers": [
+    {
+      "id": "LTC",
+      "name": "Servidor LTC",
+      "url": "http://robott.tech",
+      "logo": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/APP-SONIPLAY-TOP/main/logos/ltc.png"
+    },
+    {
+      "id": "PTV",
+      "name": "Servidor PTV",
+      "url": "http://geralplaytop.online",
+      "logo": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/APP-SONIPLAY-TOP/main/logos/ptv.png"
+    },
+    {
+      "id": "AURA",
+      "name": "Servidor AURA",
+      "url": "http://auratvlobo.com",
+      "logo": "https://raw.githubusercontent.com/hevertonnightwolf-sketch/APP-SONIPLAY-TOP/main/logos/aura.png"
+    }
+  ]
+}
